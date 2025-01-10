@@ -1,0 +1,3 @@
+C:/Users/mario/Desktop/yes/Faks/Study Material/Structural programming/Exercises/1st_Kolokvium/cmake-build-debug/CMakeFiles/1st_Kolokvium.dir
+C:/Users/mario/Desktop/yes/Faks/Study Material/Structural programming/Exercises/1st_Kolokvium/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mario/Desktop/yes/Faks/Study Material/Structural programming/Exercises/1st_Kolokvium/cmake-build-debug/CMakeFiles/rebuild_cache.dir

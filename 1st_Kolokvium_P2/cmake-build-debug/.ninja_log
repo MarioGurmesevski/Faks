@@ -1,0 +1,23 @@
+# ninja log v6
+7	394	7533939753147765	CMakeFiles/1st_Kolokvium_P2.dir/main.cpp.obj	2e1ae0443cd774d2
+407	489	7533940738498368	1st_Kolokvium_P2.exe	4dae32b74f4a7507
+6	445	7533829237290623	CMakeFiles/1st_Kolokvium_P2.dir/2_Exercise.cpp.obj	8b1bca0ce78b3459
+11	467	7533841763543839	CMakeFiles/1st_Kolokvium_P2.dir/3_Exercise.cpp.obj	1d7744e0637be263
+7	507	7533821222448551	CMakeFiles/1st_Kolokvium_P2.dir/1_Exercise.cpp.obj	a64cfdaa19eec10f
+16	442	7533829237395710	CMakeFiles/1st_Kolokvium_P2.dir/boilerPlate.cpp.obj	77e4180dd58e9b80
+13	1667	7533925605847522	CMakeFiles/1st_Kolokvium_P2.dir/11_Exercise.cpp.obj	b93b3d614f78ae22
+2	324	7533953122484856	build.ninja	f36ec8a6ddaa923f
+11	527	7533921803900695	CMakeFiles/1st_Kolokvium_P2.dir/13_Exercise.cpp.obj	e50895e84f7030ed
+16	534	7533921803955003	CMakeFiles/1st_Kolokvium_P2.dir/3_Exercise_EN.cpp.obj	6760aa743862653
+6	406	7533940734497251	CMakeFiles/1st_Kolokvium_P2.dir/4_Exercise_EN.cpp.obj	64d83b8cabe583b4
+20	548	7533958396201763	CMakeFiles/1st_Kolokvium_P2.dir/5_Exercise_EN.cpp.obj	5a3b16f20ae204cd
+11	549	7533958396111509	CMakeFiles/1st_Kolokvium_P2.dir/2_Exercise.cpp.obj	8b1bca0ce78b3459
+6	550	7533958396066450	CMakeFiles/1st_Kolokvium_P2.dir/main.cpp.obj	2e1ae0443cd774d2
+16	558	7533958396161739	CMakeFiles/1st_Kolokvium_P2.dir/4_Exercise_EN.cpp.obj	64d83b8cabe583b4
+25	558	7533958396246826	CMakeFiles/1st_Kolokvium_P2.dir/11_Exercise_EN.cpp.obj	e2c4acdcd060ecf
+6	47	7533959107087203	CMakeFiles/1st_Kolokvium_P2.dir/5_Exercise_EN.cpp.obj	5a3b16f20ae204cd
+48	136	7533959107504347	1st_Kolokvium_P2.exe	13ffe45bde351cba
+6	388	7533960311365648	CMakeFiles/1st_Kolokvium_P2.dir/11_Exercise_EN.cpp.obj	e2c4acdcd060ecf
+388	473	7533960315189866	1st_Kolokvium_P2.exe	13ffe45bde351cba
+7	405	7533961533989424	CMakeFiles/1st_Kolokvium_P2.dir/11_Exercise_EN.cpp.obj	e2c4acdcd060ecf
+406	504	7533961537970564	1st_Kolokvium_P2.exe	13ffe45bde351cba

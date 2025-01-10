@@ -1,0 +1,3 @@
+C:/Users/mario/Desktop/yes/Faks/Study Material/Structural programming/Exercises/Auditory_Exercises_10/cmake-build-debug/CMakeFiles/Auditory_Exercises_10.dir
+C:/Users/mario/Desktop/yes/Faks/Study Material/Structural programming/Exercises/Auditory_Exercises_10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mario/Desktop/yes/Faks/Study Material/Structural programming/Exercises/Auditory_Exercises_10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
