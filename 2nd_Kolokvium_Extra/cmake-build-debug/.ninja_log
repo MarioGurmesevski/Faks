@@ -1,2 +1,16 @@
 # ninja log v6
 424	524	7580578878828449	2nd_Kolokvium_Extra.exe	e5dedb3d002e9e4c
+8	675	1736629990068394956	CMakeFiles/2nd_Kolokvium_Extra.dir/main.cpp.o	44a695cba5496899
+9	695	1736629990069027913	CMakeFiles/2nd_Kolokvium_Extra.dir/01_Exercise.cpp.o	14e1d1fbf458fbec
+9	716	1736629990069155788	CMakeFiles/2nd_Kolokvium_Extra.dir/02_Exercise.cpp.o	20a6a4f4538dd97b
+9	724	1736629990069251204	CMakeFiles/2nd_Kolokvium_Extra.dir/03_Exercise.cpp.o	2ce3282a966330c7
+9	728	1736629990069658703	CMakeFiles/2nd_Kolokvium_Extra.dir/04_Exercise.cpp.o	f856111d01f6eef7
+9	734	1736629990069757161	CMakeFiles/2nd_Kolokvium_Extra.dir/05_Exercise.cpp.o	8e9a3b7afb0e3d2b
+716	1131	1736629990776754532	CMakeFiles/2nd_Kolokvium_Extra.dir/08_Exercise.cpp.o	f889328824292a5
+728	1138	1736629990788555668	CMakeFiles/2nd_Kolokvium_Extra.dir/10_Exercise.cpp.o	3e9cdc028d0b3af
+678	1151	1736629990738503592	CMakeFiles/2nd_Kolokvium_Extra.dir/06_Exercise.cpp.o	c08f51c5e8dd8586
+695	1173	1736629990755027757	CMakeFiles/2nd_Kolokvium_Extra.dir/07_Exercise.cpp.o	4476ebcde7dde0d3
+734	1175	1736629990794650693	CMakeFiles/2nd_Kolokvium_Extra.dir/11_Exercise.cpp.o	85da6005f4b51f64
+724	1192	1736629990784330637	CMakeFiles/2nd_Kolokvium_Extra.dir/09_Exercise.cpp.o	728929ede595e2c6
+1131	1435	1736629991191715055	CMakeFiles/2nd_Kolokvium_Extra.dir/12_Exercise.cpp.o	9a438f1558345437
+1435	1572	1736629991495102082	2nd_Kolokvium_Extra	6d962fc7114a6274

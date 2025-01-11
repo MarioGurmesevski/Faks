@@ -17,16 +17,23 @@ int run10_Exercise() {
         }
     }
 
-    for (int i = 0; i < cols; i++) {
+    for (int j = 0; j < cols; j++) {
         int counter = 0;
-        for (int j = 0; j < rows; j++) {
-            if (matrix[i][j] == i * 100 + j) {
-                {
-                    counter++;
-                }
+        for (int i = 0; i < rows; i++) {
+            int index_number =i;
+            if (j >= 100) {
+                index_number *= 1000;
+            }else if (j >= 10){
+                index_number *= 100;
+            }else {
+                index_number *= 10;
             }
-            cout << counter << endl;
+            index_number+=j;
+                if (matrix[i][j] == index_number) {
+                counter++;
+            }
         }
+        cout << counter << endl;
     }
     return 1;
 }
