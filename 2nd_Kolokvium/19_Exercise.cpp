@@ -7,6 +7,7 @@
 #include<cstring>
 using namespace std;
 
+/*
 void transformation(char *text, int x, int i = 0) {
     if (text[i] == '\0') return;
     if (islower(text[i])) {
@@ -27,6 +28,29 @@ void transformation(char *text, int x, int i = 0) {
         transformation(text, x, i + 1);
     }
 }
+*/
+
+void transformation(char *text, int x, int i = 0, int j = 0) {
+    if (text[i] == '\0')return;
+    if (x == j) {
+        transformation(text, x, i + 1, 0);
+    } else {
+        if (isalpha(text[i])) {
+            if (text[i] == 'z') {
+                text[i] = 'a';
+                transformation(text, x, i, j + 1);
+            }else if (text[i] == 'Z') {
+                text[i] = 'A';
+                transformation(text, x, i, j + 1);
+            } else {
+                text[i] += 1;
+                transformation(text, x, i, j + 1);
+            }
+        }else {
+            transformation(text, x, i+1, j);
+        }
+    }
+}
 
 int run19_Exercise() {
     int n, x;
@@ -37,7 +61,7 @@ int run19_Exercise() {
         cin.getline(text, 600);
 
         transformation(text, x);
-        cout << text<<endl;
+        cout << text << endl;
     }
 
 

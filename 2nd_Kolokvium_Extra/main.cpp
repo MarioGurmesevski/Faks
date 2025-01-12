@@ -21,12 +21,12 @@ int main() {
     // run4_Exercise();
     // run5_Exercise(); NOT DONE
     // run6_Exercise();
-    run7_Exercise();
+    // run7_Exercise();
     // run8_Exercise();
     // run9_Exercise();
     // run10_Exercise();
     // run11_Exercise();
-    // run12_Exercise();
+    run12_Exercise();
 
     return 0;
 }
