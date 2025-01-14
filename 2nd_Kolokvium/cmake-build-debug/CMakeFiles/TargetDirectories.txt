@@ -1,3 +1,0 @@
-/Users/mariogurmeshevski/Desktop/Faks/2nd_Kolokvium/cmake-build-debug/CMakeFiles/2nd_Kolokvium.dir
-/Users/mariogurmeshevski/Desktop/Faks/2nd_Kolokvium/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mariogurmeshevski/Desktop/Faks/2nd_Kolokvium/cmake-build-debug/CMakeFiles/rebuild_cache.dir

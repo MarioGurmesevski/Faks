@@ -1,3 +1,0 @@
-C:/Users/mario/Desktop/yes/Faks/Study Material/Structural programming/Exercises/Auditory_Exercises_6_Duo/cmake-build-debug/CMakeFiles/Auditory_Exercises_6_Duo.dir
-C:/Users/mario/Desktop/yes/Faks/Study Material/Structural programming/Exercises/Auditory_Exercises_6_Duo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mario/Desktop/yes/Faks/Study Material/Structural programming/Exercises/Auditory_Exercises_6_Duo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
